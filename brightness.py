@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# use this instead:
+# http://ubuntuforums.org/showthread.php?t=2243162&p=13127246#post13127246
+
 import sys
 
 minBrightness = 100;
